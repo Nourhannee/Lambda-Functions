@@ -1,0 +1,6 @@
+Flask
+boto3          # For S3
+redis          # Optional cache
+kafka-python   # For Kafka producer/consumer
+gTTS           # or Coqui TTS / AWS Polly SDK
+pydub==0.25.1
